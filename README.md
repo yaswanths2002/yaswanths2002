@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yaswanths2002
+- 👋 Hi, I’m Yaswanth Sirigiri
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning java script
 - 🤔I'm looking for help with Web Development Skills
